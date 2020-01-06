@@ -97,6 +97,8 @@ About view of meds: [https://www.youtube.com/watch?v=QdFw10TwLFY](https://www.yo
 
 About ADHD in girls: [https://www.youtube.com/watch?v=dmeE3qTJRUw](https://www.youtube.com/watch?v=dmeE3qTJRUw)
 
+## Executive Functioning
+
 Article: [10 Questions That Will Transform Your Life with ADHD | ADHD from A to Z](https://blogs.psychcentral.com/adhd-zoe/2014/05/10-questions-that-will-transform-your-life-with-adhd/)
 
 1) Do I really need this?
@@ -113,6 +115,8 @@ Article: [10 Healthy Rewards Your ADHD Brain Will Love](http://adhdboss.com/dopa
 
 Understanding dopamine and ways to help without or to supplement medication.
 
+### Planners
+
 [Bullet Journal: Step by step setup guide to starting your first BUJO | DoodadsHunter](https://doodadshunter.com/blogs/blog/bullet-journal-setup)
 
 Article: [Tips for Managing Adult ADHD/ADD: Deal with ADHD Symptoms and Become More Focused and Organized](https://www.helpguide.org/articles/add-adhd/managing-adult-adhd-attention-deficit-disorder.htm) 
@@ -121,6 +125,12 @@ Learn how to deal with the symptoms of adult ADHD, focus better at work, get org
 
 And, of course, medications are an option...
 
+### Medications
+
 Video: [Dr Russell Barkley on ADHD Meds and how they all work differently from each other](https://www.youtube.com/watch?v=LnS0PfNyj4U&t=0s&list=PLWDDHvZekEYyMev-VD53kakxbHpFbtshX&index=2)
 
 Article: [How does Strattera Work? | ADD ADHD Blog.com](http://addadhdblog.com/how-does-strattera-work/?doing_wp_cron=1533062879.9955439567565917968750)
+
+### Coaching
+
+[Dana Rayburn](https://danarayburn.com/)
