@@ -43,6 +43,8 @@ Video: [Rethinking ADHD: More than meets the eye.](https://www.youtube.com/watch
 
 Video: [ADHD As A Difference In Cognition, Not A Disorder: Stephen Tonti at TEDxCMU](https://www.youtube.com/watch?v=uU6o2_UFSEY)
 
+Article: [Why highly intelligent people suffer from more mental and physical disorders](https://bigthink.com/design-for-good/why-highly-intelligent-people-suffer-more-mental-and-physical-disorders?utm_medium=Social&utm_source=LinkedIn) Highly intelligent people are 80% more likely to be diagnosed with ADHD.
+
 ## Dr. Daniel Amen
 
 Uses SPECT brain scans to diagnose ADHD types. He divided it into 7 categories and is also one of the people treating brain injuries of NFL players. He has clinics in various places in the country including New York, Atlanta, and Los Angeles: [https://www.amenclinics.com/locations/](https://www.amenclinics.com/locations/)
@@ -74,6 +76,8 @@ Videos: [http://www.drhallowell.com/the-hallowell-centers/the-hallowell-center-n
 ## Dr. Michael Manos
 
 Video: [Understanding the Nuances of ADHD | Michael Manos, PhD](https://www.youtube.com/watch?v=hrjj0EgII1Y) 
+
+
 
 # What do we do now?
 
