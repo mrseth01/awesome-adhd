@@ -162,3 +162,6 @@ Article: [How does Strattera Work? | ADD ADHD Blog.com](http://addadhdblog.com/h
 - [Beeminder](https://www.beeminder.com/home)
 - [TaskRatchet](https://taskratchet.com/)
 - [SelfControl](https://selfcontrolapp.com/)
+- [Forest](https://www.forestapp.cc/)
+- [Freedom](https://freedom.to/)
+- [Focus](https://heyfocus.com/)
