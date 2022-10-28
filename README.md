@@ -165,3 +165,4 @@ Article: [How does Strattera Work? | ADD ADHD Blog.com](http://addadhdblog.com/h
 - [Forest](https://www.forestapp.cc/)
 - [Freedom](https://freedom.to/)
 - [Focus](https://heyfocus.com/)
+- [Mindful Internet Use](https://chrome.google.com/webstore/detail/mindful-internet-use/hieolpjdilnibgamiafklnlcmagdngoo)
