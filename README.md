@@ -156,3 +156,22 @@ Article: [How does Strattera Work? | ADD ADHD Blog.com](http://addadhdblog.com/h
 ## Coaching
 
 [Dana Rayburn](https://danarayburn.com/)
+
+## Software Tools
+
+- [Beeminder](https://www.beeminder.com/home)
+- [TaskRatchet](https://taskratchet.com/)
+- [SelfControl](https://selfcontrolapp.com/)
+- [Forest](https://www.forestapp.cc/)
+- [Freedom](https://freedom.to/)
+- [Focus](https://heyfocus.com/)
+- [Mindful Internet Use](https://chrome.google.com/webstore/detail/mindful-internet-use/hieolpjdilnibgamiafklnlcmagdngoo)
+- [Routinery](https://play.google.com/store/apps/details?id=com.alt.goodmorning)
+- [HabitNow](https://play.google.com/store/apps/details?id=com.habitnow)
+- [Fabulous](https://play.google.com/store/apps/details?id=co.thefabulous.app)
+- [Inflow](https://play.google.com/store/apps/details?id=inflow.adhd.productivity)
+- [LifeUp](https://play.google.com/store/apps/details?id=net.sarasarasa.lifeup)
+- [Habitica](https://play.google.com/store/apps/details?id=com.habitrpg.android.habitica)
+- [RoutineFlow](https://play.google.com/store/apps/details?id=app.routineflow.routineflow)
+- [Calendar Alarm Reminder App](https://play.google.com/store/apps/details?id=com.app_by_LZ.calendar_alarm_clock)
+- [Pushbullet](https://www.pushbullet.com/)
