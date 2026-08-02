@@ -175,3 +175,4 @@ Article: [How does Strattera Work? | ADD ADHD Blog.com](http://addadhdblog.com/h
 - [RoutineFlow](https://play.google.com/store/apps/details?id=app.routineflow.routineflow)
 - [Calendar Alarm Reminder App](https://play.google.com/store/apps/details?id=com.app_by_LZ.calendar_alarm_clock)
 - [Pushbullet](https://www.pushbullet.com/)
+- [Mindwtr](https://mindwtr.app/) — Free, open-source, local-first GTD task manager with quick capture, a focused daily task list, recurring tasks, reminders, and guided reviews.
