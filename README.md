@@ -17,6 +17,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## ADHD Tests
 
+- [AuDHD Test](https://www.maskedbutaware.nl/en/tools/audhd-test) - A private browser-based reflection test for overlapping autistic and ADHD traits. It is not a diagnostic or clinically validated assessment.
+
 https://psychcentral.com/quizzes/adhd-quiz/
 
 ## Is This Your Brain?
