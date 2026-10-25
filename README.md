@@ -175,3 +175,4 @@ Article: [How does Strattera Work? | ADD ADHD Blog.com](http://addadhdblog.com/h
 - [RoutineFlow](https://play.google.com/store/apps/details?id=app.routineflow.routineflow)
 - [Calendar Alarm Reminder App](https://play.google.com/store/apps/details?id=com.app_by_LZ.calendar_alarm_clock)
 - [Pushbullet](https://www.pushbullet.com/)
+- [Helicon](https://apps.apple.com/app/apple-store/id6811677202?pt=125973633&ct=gh-adhd&mt=8)
